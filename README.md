@@ -141,6 +141,8 @@
       </div>
     </div>
   </div>
-
+ <div>
+   
+   <footer> Байланыс нөмірі: <a href="tel:+777789946613">+7 778 994 66 13</a></div>
   <footer>
     © <span id="year"></span> Сенің Дүк…
